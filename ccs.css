@@ -1,0 +1,24 @@
+
+body {
+    font-family:sans-serif;
+    background-color: rgb(217, 241, 252);
+    background-size: cover;
+}
+.bw{
+text-decoration: none;
+color: rgb(255, 255, 255);
+   background-color:rgb(94, 221, 253);
+   
+}
+.ot{
+    background-color: rgb(45, 234, 255);
+}
+.o{
+    background-color: red;
+    
+}
+.b{
+    color: red;
+    background-color: white;
+    text-decoration: none;
+}
